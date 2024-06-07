@@ -1,6 +1,8 @@
 .dropdown{
     .title {
         background: red;
+        user-select: none;
+        cursor: pointer;
     }
 
     &--closed > .content {
