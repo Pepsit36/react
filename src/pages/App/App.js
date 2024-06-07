@@ -9,8 +9,8 @@ function App() {
         <div>
             Coucou
 
-            {/*<Dropdown title="Description" content="Ma Description"></Dropdown>*/}
-            {/*<Dropdown title="Equipement" content="Mon equipement"></Dropdown>*/}
+            <Dropdown title="Description" content="Ma Description"></Dropdown>
+            <Dropdown title="Equipement" content="Mon equipement"></Dropdown>
         </div>
     );
 }
