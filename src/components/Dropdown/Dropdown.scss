@@ -1,0 +1,9 @@
+.dropdown{
+    .title {
+        background: red;
+    }
+
+    &--closed > .content {
+        display: none;
+    }
+}
